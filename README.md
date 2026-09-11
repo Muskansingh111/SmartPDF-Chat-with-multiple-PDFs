@@ -1,4 +1,4 @@
-# SmartPDF-Chat-with-multiple-PDFs
+# AskMyDocs
 Ask-Multiple-PDFs is an AI-powered Streamlit app that lets you upload one or more PDFs and chat with their content. It uses LangChain for retrieval-augmented generation, FAISS for fast semantic search, and Google Gemini for smart, contextual answers from your documents in real time.
 
 Ask-Multiple-PDFs is an **AI-powered Streamlit application** that lets you upload one or more PDF documents and chat with their content in real time.  
@@ -21,8 +21,8 @@ It combines **LangChain** for retrieval-augmented generation (RAG), **FAISS** fo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Muskansingh111/SmartPDF-Chat-with-multiple-PDFs.git
-   cd SmartPDF-Chat-with-multiple-PDFs
+   git clone https://github.com/Muskansingh111/AskMyDocs.git
+   cd AskMyDocs
 Create and activate a virtual environment (recommended)
 
 bash
